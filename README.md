@@ -1,6 +1,3 @@
-Certainly! Here’s a README template for your GitHub profile. You can customize the sections as needed.
-
-````markdown name=README.md
 # Hi there 👋, I'm Khalil!
 
 Welcome to my GitHub profile! I'm passionate about coding and technology. Here you'll find my personal and collaborative projects, all reflecting my journey as a developer.
@@ -31,7 +28,3 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here y
 ---
 
 Thanks for visiting my profile!
-
-````
-
-Just copy this content to a file called `README.md` in a repo named `Khalil307-ak` (your profile repository). Be sure to add your own social links or any other customization!
